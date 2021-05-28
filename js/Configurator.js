@@ -1,12 +1,3 @@
-/*
- * File :EngineCore.js
- * Description : The main file for interface
- * Date : 28/03/2018
- * License : MIT
- * Author : Sethu Raj
- * URL : https://github.com/EverCG 
- */
-
 //Whether debuging is enabled or not
 var IS_DEBUG=false;
 //Whether to show fps counter or not
