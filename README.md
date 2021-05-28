@@ -11,7 +11,7 @@
     <a href="https://santosharron.github.io/3D-car-model/"><strong>View Live Site Here »</strong></a>
   
   
-  ## About The Project
+ ## About The Project
 
 <p align="center">
   <a href="https://santosharron.github.io/3D-car-model/">
